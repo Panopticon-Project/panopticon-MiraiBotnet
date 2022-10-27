@@ -8,4 +8,6 @@ https://www.securityweek.com/cloudflare-mitigates-2-tbps-ddos-attack-launched-mi
 
 https://www.securityweek.com/spring4shell-vulnerability-exploited-mirai-botnet
 
-https://www.fortinet.com/blog/threat-research/multiple-malware-campaigns-target-vmware-vulnerability?utm_source=substack&utm_medium=email
+https://www.fortinet.com/blog/threat-research/multiple-malware-campaigns-target-vmware-vulnerability
+
+https://blog.cloudflare.com/cloudflare-ddos-threat-report-2022-q3/
